@@ -2,7 +2,7 @@
 from mylib import myfunc
 
 def ask(prompt, default=None):
-    """input ที่รองรับ default ถ้ากด Enter"""
+   
     s = input(prompt).strip()
     return default if s == "" and default is not None else s
 
