@@ -8,9 +8,9 @@
 - `README.md` — ไฟล์คำอธิบายโปรเจกต์ วิธีใช้งาน และตัวอย่างผลลัพธ์  
 
 ## วิธีการอัพโหลดขึ้น
-git add .
-git commit -m "CT526_V2"
-git push
+- git add .
+- git commit -m "CT526_V2"
+- git push
 
 
 # By Nitipoom morndee  68130231
